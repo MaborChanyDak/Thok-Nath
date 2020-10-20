@@ -8,7 +8,7 @@ Last updated October 20, 2020
 
 1. Agreement to Terms
 
-1.1 These Terms and Conditions constitute a legally binding agreement made between you, whether personally or on behalf of an entity (you), and Jinub Sudan Academy, located at 700 Gitzel St., Yellowknife, Northwest Territories X1A 2R5, Canada (we, us), concerning your access to and use of the Thok Nath (https://github.com/The211Lounge) website as well as any related applications (the Site).
+1.1 These Terms and Conditions constitute a legally binding agreement made between you, whether personally or on behalf of an entity (you), and Jinub Sudan Academy, located at 700 Gitzel St., Yellowknife, Northwest Territories X1A 2R5, Canada (we, us), concerning your access to and use of the Thok Nath (https://github.com/The211Lounge/Thok-Nath/blob/main/TERMSANDCONDITIONS.md) website as well as any related applications (the Site).
 
 The Site provides the following services: ____TRIVIA QUESTIONS______ (Services). You agree that by accessing the Site and/or Services, you have read, understood, and agree to be bound by all of these Terms and Conditions.
 
